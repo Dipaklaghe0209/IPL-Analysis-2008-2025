@@ -102,5 +102,4 @@ This dashboard serves as a comprehensive cricket analytics tool, enabling users 
 - Export functionality for custom reports and presentations
 
 ## Screenshot / Demo 
-Show what the dashboard looks like. - ![Alt text ](https://github.com/Dipaklaghe0209/IPL-Analysis-2008-2025/blob/main/IPL%20Analysis%202008-2025.pbit)).
-Example : ![Dashboard Preview].(https://github.com/Dipaklaghe0209/IPL-Analysis-2008-2025/blob/main/Ipl%20Project%20.png)
+Example:  ![DashBoard preiew].(https://github.com/Dipaklaghe0209/IPL-Analysis-2008-2025/blob/main/Ipl%20Project%20.png)
